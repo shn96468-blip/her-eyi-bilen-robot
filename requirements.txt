@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+requests
+streamlit-mic-recorder
+langchain
+chromadb
+pypdf
